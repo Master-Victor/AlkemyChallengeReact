@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/AlkemyChallengeReact/static/js/main.b7a1ac9e.chunk.js",
-    "main.js.map": "/AlkemyChallengeReact/static/js/main.b7a1ac9e.chunk.js.map",
-    "runtime-main.js": "/AlkemyChallengeReact/static/js/runtime-main.e209ea41.js",
-    "runtime-main.js.map": "/AlkemyChallengeReact/static/js/runtime-main.e209ea41.js.map",
-    "static/js/2.2a6aa2f4.chunk.js": "/AlkemyChallengeReact/static/js/2.2a6aa2f4.chunk.js",
-    "static/js/2.2a6aa2f4.chunk.js.map": "/AlkemyChallengeReact/static/js/2.2a6aa2f4.chunk.js.map",
-    "index.html": "/AlkemyChallengeReact/index.html",
-    "static/js/2.2a6aa2f4.chunk.js.LICENSE.txt": "/AlkemyChallengeReact/static/js/2.2a6aa2f4.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.408de09e.chunk.js",
+    "main.js.map": "/static/js/main.408de09e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4ceff945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4ceff945.js.map",
+    "static/js/2.c1fdb574.chunk.js": "/static/js/2.c1fdb574.chunk.js",
+    "static/js/2.c1fdb574.chunk.js.map": "/static/js/2.c1fdb574.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.c1fdb574.chunk.js.LICENSE.txt": "/static/js/2.c1fdb574.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e209ea41.js",
-    "static/js/2.2a6aa2f4.chunk.js",
-    "static/js/main.b7a1ac9e.chunk.js"
+    "static/js/runtime-main.4ceff945.js",
+    "static/js/2.c1fdb574.chunk.js",
+    "static/js/main.408de09e.chunk.js"
   ]
 }
